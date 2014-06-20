@@ -1,0 +1,6 @@
+html
+    body
+        select
+            option | test
+            option | test2
+        <script src="dropdown.js"></script>
